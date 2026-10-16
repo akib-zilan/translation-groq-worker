@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "translation-groq-proxy",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-16",
+  "workers_dev": true
+}

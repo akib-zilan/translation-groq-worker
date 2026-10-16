@@ -1,0 +1,9 @@
+{
+  "name": "translation-groq-proxy",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Cloudflare Worker proxy for a Firebase-authenticated Groq translation tutor",
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
